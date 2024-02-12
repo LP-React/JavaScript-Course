@@ -1,9 +1,9 @@
-# [JavaScript - Course](https://lp-react.github.io/CSS-Course/) 
+# JavaScript - Course
 
  Here are all the things I learned about JavaScript and some practices applying what I've learned.
 
 <p align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" width="180px" style='border-radius:10px;'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" width="180px">
 </p>
 
 ### 🔗 Connect with me
